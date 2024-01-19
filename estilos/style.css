@@ -70,7 +70,7 @@ form > .campo{
     border: 4px solid #13afb4; 
     display: block;
     width: 100%;
-    height: 41px;
+    height: 40px;
     border-radius: 5px;
     margin: 5px 0px;
 }
@@ -81,16 +81,12 @@ form > .campo{
 }
 
 .campo > i{
-    /* background-color: aliceblue; */
     color: black;
     font-size: 2em;
     width: 30px;
    
    padding: 6px;
    border-radius: 5px;
-   
-   
-
 }
 
 .campo > input{
@@ -102,7 +98,7 @@ form > .campo{
     border: 0px;
     border-radius: 5px;
     padding: 2px;
-    transform: translateY(-13px);
+    transform: translateY(-12px);
   
     
 }
