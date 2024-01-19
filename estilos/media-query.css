@@ -4,11 +4,12 @@
 
     body{
         background-image: linear-gradient(to top, #c9d42d, #1ad9df);
+        
     } 
 
     #login{
         width: 80vw;
-        height: 400px;
+        height: 300px;
     }
 
     #login > #imagem{
@@ -32,7 +33,7 @@
 
     #login{
         width: 950px;
-        height: 400px;
+        height: 350px;
     }
 
     #login > #imagem{
